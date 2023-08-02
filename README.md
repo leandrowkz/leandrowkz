@@ -6,7 +6,6 @@ Software Engineer.
 
 * 🌍  I'm based in Lisbon, PT
 * ✉️  You can contact me at [leandrowkz@gmail.com](mailto:leandrowkz@gmail.com)
-* 🚀  I'm currently working at [Mollie.com](http://mollie.com)
 * 🧠  I'm learning everything related to web
 * 🤝  I'm open to collaborating on TS projects, back or frontend related
 
